@@ -48,4 +48,4 @@ print("middle:", middle)  # Prints the middle numbers.
 print("last:", last)  # Prints the last number.
 
 ```
-
+Version 2
